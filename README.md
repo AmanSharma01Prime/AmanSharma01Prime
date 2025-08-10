@@ -1,7 +1,7 @@
 
 <!--
 **AmanSharma01Prime/AmanSharma01Prime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -19,6 +19,10 @@ Here are some ideas to get you started:
   💡 **Data dreamer & insight seeker**  
   📚 Learning **Python, SQL, Excel, Power BI**  
   🎯 Mission: **turn chaos into clarity**
+
+---
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 
 ---
 
